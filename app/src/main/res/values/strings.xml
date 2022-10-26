@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BuildGrid043</string>
+    <string name="sleeping">Sleeping</string>
+    <string name="hotto">To day is Hot</string>
+    <string name="angry">Im angry</string>
+    <string name="boring">To day is boring</string>
+    <string name="cool">Im so Cool!!</string>
+    <string name="cold">To day is cold</string>
+    <string name="cute">To day is boring</string>
+    <string name="fail">Im fail</string>
+    <string name="fighting">Nice try</string>
+    <string name="hbd">My birthday</string>
+    <string name="hunting">Rawww!</string>
+    <string name="nice">Nice Suu!</string>
+    <string name="ok">OK</string>
+    <string name="Sad">Im so sad</string>
+    <string name="today">To day is!!</string>
+    <string name="trythis">u want it?</string>
+    <string name="whatisthis">What is this?</string>
+    <string name="working">Working</string>
+    <string name="me">Chattamas</string>
+
+</resources>
